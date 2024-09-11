@@ -105,7 +105,7 @@ def generate_feedback(sections, language):
 
 # Kullanıcı arayüzü ve CV analizi
 def create_dashboard():
-    st.title("Gelişmiş CV Analiz ve Geri Bildirim Aracı")
+    st.title("CV Analiz Aracı")
     st.write("Bir CV yükleyin ve analiz sonuçlarını ve geri bildirim önerilerini görün.")
 
     # Kullanıcının dil seçimi
